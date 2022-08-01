@@ -14,6 +14,7 @@
     <input type="text" name="userid" placeholder="UserId"><br><br>
     <input type="password" name="password" placeholder="Password"><br>
     <input type="submit" value="Login">
+    <a>Sign up</a>
 </head>
 <body>
 

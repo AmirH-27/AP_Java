@@ -23,7 +23,7 @@ import java.util.Properties;
 @Configuration
 @EnableWebMvc
 @EnableTransactionManagement
-@ComponentScan(basePackages = {"com.dao","com.service","com.controller"})
+@ComponentScan(basePackages = {"com.com.dao","com.service","com.controller"})
 public class AppConfig implements WebMvcConfigurer {
 
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
