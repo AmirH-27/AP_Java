@@ -23,7 +23,7 @@ import java.util.Properties;
 @Configuration
 @EnableWebMvc
 @EnableTransactionManagement
-@ComponentScan(basePackages = {"com.com.dao","com.service","com.controller"})
+@ComponentScan(basePackages = {"com.dao","com.service","com.controller"})
 public class AppConfig implements WebMvcConfigurer {
 
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
@@ -43,7 +43,7 @@ public class AppConfig implements WebMvcConfigurer {
     public DataSource dataSource() {
         MysqlDataSource dataSource = new MysqlDataSource();
         dataSource.setDatabaseName("hibernate_tutorial");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/hibernate_tutorial");
+        dataSource.setUrl("jdbc:mysql://localhost:3306/labtask2");
         dataSource.setUser("root");
         dataSource.setPassword("root");
         return dataSource;

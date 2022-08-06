@@ -10,7 +10,7 @@ public interface UserService {
 
     public void save(User user);
 
-    public User get(int id);
+    public User get(String id, String password);
 
     public void update(User user);
 

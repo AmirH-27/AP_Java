@@ -1,3 +1,7 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<%@ page isELIgnored="false" %>
 <%--
   Created by IntelliJ IDEA.
   User: Amir Habib
@@ -5,18 +9,18 @@
   Time: 00:18
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head>
-    <title>Login</title>
-    <h1>Login</h1>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <input type="text" name="userid" placeholder="UserId"><br><br>
-    <input type="password" name="password" placeholder="Password"><br>
-    <input type="submit" value="Login">
-    <a>Sign up</a>
-</head>
-<body>
-
-</body>
+    <head>
+        <title>Login</title>
+    </head>
+    <body>
+        <h1>Login</h1>
+        <form:form action="login" method="post" modelAttribute="user">
+            Student ID: <form:input path="id"/>
+            <form:errors path="id" /><br/><br/>
+            Password: <form:input path="password" type="password" />
+            <form:errors path="password" /><br/><br/>
+            <input type="submit" value="Login">
+        </form:form>
+    </body>
 </html>

@@ -29,8 +29,8 @@ public class UserServiceImp implements UserService {
     }
 
     @Override
-    public User get(int id) {
-        return userDao.get(id);
+    public User get(String id , String password) {
+        return userDao.get(id, password);
     }
 
     @Override

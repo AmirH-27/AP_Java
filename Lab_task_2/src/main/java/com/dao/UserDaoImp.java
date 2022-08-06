@@ -21,7 +21,7 @@ public class UserDaoImp implements UserDao {
     @Override
     public List<User> getAll() {
         Session session = this.sessionFactory.getCurrentSession();
-        Query<User> userQuery = session.createQuery("from User", User.class);
+        Query<User> userQuery = session.createQuery("From User", User.class);
         List<User> users = userQuery.getResultList();
         return users == null ? new ArrayList<User>() : users;
     }
@@ -32,6 +32,14 @@ public class UserDaoImp implements UserDao {
         session.save(user);
     }
 
+    @Override
+    public User get(String id, String password) {
+        Session session = this.sessionFactory.getCurrentSession();
+        Query<User> userQuery = session.createQuery("From User Where id = :id AND password = :password", User.class);
+        userQuery.setParameter("id", id);
+        userQuery.setParameter("password", password);
+        return userQuery.getSingleResult();
+    }
     @Override
     public User get(int id) {
         Session session = this.sessionFactory.getCurrentSession();
