@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab_task_2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bea2e801-6664-41a8-9b5e-c9598f7fdef4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/java/controller/DashboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/java/controller/RegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/java/jsp/Record.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/java/jsp/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/webapp/WEB-INF/application-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/webapp/WEB-INF/view/dashboard.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/webapp/WEB-INF/view/filter.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/webapp/WEB-INF/view/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/application-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/classes/controller/DashboardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/classes/controller/RegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/classes/jsp/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/classes/jsp/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/javax.servlet.jsp-api-2.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/jsp-api-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/serializer-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-aop-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-beans-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-context-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-core-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-expression-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-jcl-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-web-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/spring-webmvc-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/xalan-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/lib/xml-apis-1.3.04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/view/dashboard.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/view/filter.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/view/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/SpringWebDemo/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/classes/controller/DashboardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/classes/controller/RegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/classes/jsp/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final Lab Task 1/SpringWebDemo/target/classes/jsp/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/LabTask1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/out/production/LabTask1/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/out/production/LabTask1/QueueFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/out/production/LabTask1/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/out/production/LabTask1/Start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/src/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/src/QueueFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/src/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabTask1/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/DashboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/UserDaoImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/model/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/UserServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/util/CourseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/dashboard.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/config/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/controller/DashboardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/dao/UserDaoImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/model/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/service/UserServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/classes/com/util/CourseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/byte-buddy-1.12.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/hibernate-core-5.6.10.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/hibernate-validator-6.2.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jandex-2.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/javax.servlet.jsp-api-2.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jsp-api-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/mysql-connector-java-8.0.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/protobuf-java-3.19.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/serializer-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-aop-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-beans-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-context-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-core-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-expression-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-jcl-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-jdbc-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-orm-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-tx-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-web-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/spring-webmvc-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/xalan-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/lib/xml-apis-1.3.04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/view/dashboard.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/view/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/view/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Lab_task_2/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/config/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/DashboardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/UserDaoImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/model/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/UserServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/CourseUtil.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CmV9DXpjS1jMeeVBWjIWKzGHXQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jubayer/Desktop/AP_Java/Lab_task_2/src/main/webapp/WEB-INF",
+    "spring.configuration.checksum": "d9f477aef82edb2dfa25ca6003adb8d9"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.79" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.79" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Lab_task_2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Lab_task_2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="29954d49-905a-404d-b09b-85c032190eb6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49255" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lab_task_2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.51875" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bea2e801-6664-41a8-9b5e-c9598f7fdef4" name="Changes" comment="" />
+      <created>1659407595422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659407595422</updated>
+      <workItem from="1659407597334" duration="6392000" />
+      <workItem from="1659703152318" duration="1400000" />
+      <workItem from="1659805679116" duration="12450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
