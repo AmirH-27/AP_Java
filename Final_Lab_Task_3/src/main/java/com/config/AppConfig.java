@@ -48,7 +48,7 @@ public class AppConfig implements WebMvcConfigurer {
     public DataSource dataSource() {
         MysqlDataSource dataSource = new MysqlDataSource();
         dataSource.setDatabaseName("hibernate_tutorial");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/hibernate_tutorial");
+        dataSource.setUrl("jdbc:mysql://localhost:3306/final_task_3");
         dataSource.setUser("root");
         dataSource.setPassword("root");
         return dataSource;
