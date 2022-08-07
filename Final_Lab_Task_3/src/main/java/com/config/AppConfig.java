@@ -1,7 +1,11 @@
 package com.config;
 
 
+import com.dao.UserDao;
+import com.dao.UserDaoImp;
 import com.mysql.cj.jdbc.MysqlDataSource;
+import com.service.UserService;
+import com.service.UserServiceImp;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.context.annotation.Bean;
@@ -47,8 +51,8 @@ public class AppConfig implements WebMvcConfigurer {
     @Bean
     public DataSource dataSource() {
         MysqlDataSource dataSource = new MysqlDataSource();
-        dataSource.setDatabaseName("hibernate_tutorial");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/final_task_3");
+        dataSource.setDatabaseName("final_task_3");
+        dataSource.setUrl("jdbc:mysql://localhost:3306/finallabtask3");
         dataSource.setUser("root");
         dataSource.setPassword("root");
         return dataSource;
